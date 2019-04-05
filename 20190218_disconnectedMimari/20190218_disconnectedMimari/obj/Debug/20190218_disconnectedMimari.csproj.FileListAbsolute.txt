@@ -1,0 +1,10 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\bin\Debug\20190218_disconnectedMimari.exe.config
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\bin\Debug\20190218_disconnectedMimari.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\bin\Debug\20190218_disconnectedMimari.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\obj\Debug\20190218_disconnectedMimari.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\obj\Debug\_20190218_disconnectedMimari.Form1.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\obj\Debug\_20190218_disconnectedMimari.Properties.Resources.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\obj\Debug\20190218_disconnectedMimari.csproj.GenerateResource.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\obj\Debug\20190218_disconnectedMimari.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\obj\Debug\20190218_disconnectedMimari.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\20190218_disconnectedMimari\20190218_disconnectedMimari\obj\Debug\20190218_disconnectedMimari.pdb
